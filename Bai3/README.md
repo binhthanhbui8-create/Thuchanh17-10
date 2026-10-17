@@ -1,7 +1,7 @@
 ## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Trần Đình Duy
+- **Họ và tên:** Bùi Thanh Bình
 - **Mã số sinh viên:** 24810320299
-- **Lớp:** 20DTHxx
+- **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình.net
 - **Tên bài tập:** bài 3
 
